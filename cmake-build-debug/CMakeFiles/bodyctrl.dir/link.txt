@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bodyctrl.dir/main.cpp.o CMakeFiles/bodyctrl.dir/matrix.cpp.o CMakeFiles/bodyctrl.dir/coordinates_ctrl.cpp.o CMakeFiles/bodyctrl.dir/reachable.cpp.o CMakeFiles/bodyctrl.dir/communication.cpp.o CMakeFiles/bodyctrl.dir/angle_ctrl.cpp.o  -o bodyctrl 
