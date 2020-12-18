@@ -99,7 +99,8 @@ extern string MoveLegsToAngles(double Angle[3][6])
     string CMD;
     for (int i = 0; i < 3; ++i) {
         for (int j = 0; j < 6; ++j) {
-            CMD = CMD + VPT[i][j];
+            //CMD = CMD + VPT[i][j];
+            CMD.append(VPT[i][j]);
         }
     }
     CMD = CMD + T;
